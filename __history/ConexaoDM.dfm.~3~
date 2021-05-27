@@ -1,0 +1,21 @@
+object ConexaoDtm: TConexaoDtm
+  OldCreateOrder = False
+  Height = 150
+  Width = 215
+  object Conexao: TFDConnection
+    Params.Strings = (
+      'Database=atendimento_dk'
+      'Password=snhrp'
+      'User_Name=userrp'
+      'Server=localhost'
+      'DriverID=MySQL')
+    LoginPrompt = False
+    Left = 32
+    Top = 24
+  end
+  object qryAtendimento: TFDQuery
+    Connection = Conexao
+    Left = 136
+    Top = 32
+  end
+end

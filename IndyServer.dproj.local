@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/03 11:04:33.000.509,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/05 12:58:11.000.220,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/30 08:42:13.000.663,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/30 08:43:12.000.575,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\User\Desktop\indy\PrincipalForm.pas</Transaction>
+    <Transaction>2021/04/30 08:43:12.000.575,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\User\Desktop\indy\PrincipalForm.dfm</Transaction>
+    <Transaction>2021/04/30 08:43:24.000.106,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\User\Desktop\indy\IndyServer.dproj</Transaction>
+    <Transaction>2021/04/30 10:22:49.000.605,=C:\Users\User\Desktop\RestServerindy\ServerUtils.pas</Transaction>
+    <Transaction>2021/04/30 10:22:49.000.543,=C:\Users\User\Desktop\RestServerindy\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2021/04/30 10:22:49.000.648,=C:\Users\User\Desktop\RestServerindy\SysTypes.pas</Transaction>
+    <Transaction>2021/04/30 13:07:32.000.089,=C:\Users\User\Desktop\RestServerIndy\Unit1.pas</Transaction>
+    <Transaction>2021/04/30 13:08:08.000.862,C:\Users\User\Desktop\RestServerIndy\ConexaoDM.pas=C:\Users\User\Desktop\RestServerIndy\Unit1.pas</Transaction>
+    <Transaction>2021/04/30 13:08:08.000.862,C:\Users\User\Desktop\RestServerIndy\ConexaoDM.dfm=C:\Users\User\Desktop\RestServerIndy\Unit1.dfm</Transaction>
+    <Transaction>2021/04/30 13:18:41.000.693,=C:\Users\User\Desktop\RestServerIndy\Unit1.pas</Transaction>
+    <Transaction>2021/04/30 13:18:54.000.041,C:\Users\User\Desktop\RestServerIndy\AtendimentoObj.pas=C:\Users\User\Desktop\RestServerIndy\Unit1.pas</Transaction>
+    <Transaction>2021/04/30 13:21:24.000.437,C:\Users\User\Desktop\RestServerIndy\AtendimentoObj.pas=</Transaction>
+    <Transaction>2021/04/30 13:21:29.000.321,=C:\Users\User\Desktop\RestServerIndy\Unit1.pas</Transaction>
+    <Transaction>2021/04/30 13:21:33.000.509,C:\Users\User\Desktop\RestServerIndy\Atendimento.pas=C:\Users\User\Desktop\RestServerIndy\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
